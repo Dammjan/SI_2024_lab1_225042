@@ -30,8 +30,8 @@ branch 'master' set up to track 'origin/master'.
 24. git checkout master
 25. git merge bug1     
 26. git push -u origin master
-28. git log > logs.txt    git add logs.txt INDEX.txt.txt    git commit -m "Final commit"
-29. git push -u origin master
+28. git log > logs.txt      git add logs.txt INDEX.txt.txt    git commit -m "Final commit"
+29. git push -u origin master 
 
 
    

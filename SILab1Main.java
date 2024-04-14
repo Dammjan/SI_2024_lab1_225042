@@ -19,7 +19,6 @@ public class SILab1Main {
           System.out.println(SILab1_2.makeBigStringFrom(list)); 
  afcc0255b0c064e71e0c52288307b85435e5db36
 
-          System.out.println(SILab1_2.makeBigStringFrom(list)); 
- bug2
+          System.out.println(SILab1_2.makeBigStringFrom(list));  bug2
     }
 }

@@ -1,0 +1,63 @@
+commit 34f09c100861f52f7262691e6439c447f98a670a
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 19:52:08 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 022ddcc6353d1859692f11d4068a4f9966cb3d2d
+Merge: c3f3ae5 afcc025
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 19:48:00 2024 +0200
+
+    Resolved merge conflict in SILab1Main.java
+
+commit c3f3ae55cb02bee9d354b04a1d506bc5372f34d6
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 19:32:25 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 79c4005a4fda0b95903ae5932796684d74db0572
+Merge: e3717a1 5a5603e
+Author: Dammjan <166994650+Dammjan@users.noreply.github.com>
+Date:   Sun Apr 14 19:04:31 2024 +0200
+
+    Merge pull request #1 from Dammjan/bug1
+    
+    Bug1
+
+commit afcc0255b0c064e71e0c52288307b85435e5db36
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 19:00:10 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 5a5603ecc05445f4e82ac412d60891febcc66dd9
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 18:56:15 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9f38b4e677d2d0f85db024d7965ac2021b88e557
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 18:52:16 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0018d7182a21c8b195916faa4f56cd2b24841630
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 18:47:39 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e3717a1a293de77a9328628658263f5f531e3a75
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 18:15:57 2024 +0200
+
+    Add starter code
+
+commit 773eec30be60d78b6be7429e9627228c0983464d
+Author: Dammjan <manojlovski.10@gmail.com>
+Date:   Sun Apr 14 18:13:39 2024 +0200
+
+    Initial commit
